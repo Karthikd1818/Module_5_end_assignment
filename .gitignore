@@ -1,0 +1,10 @@
+# Dataset and model files
+*.npz
+*.keras
+
+# Temporary files
+.ipynb_checkpoints/
+__pycache__/
+venv/
+myvenv/
+.env
